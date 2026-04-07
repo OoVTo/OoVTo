@@ -137,9 +137,6 @@ Academic and internship deliverables — HTML-based ECA and Service-Oriented Arc
 
 <br>
 
-![OoVTo's GitHub stats](https://github-readme-stats.vercel.app/api?username=OoVTo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OoVTo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9)
 
 </div>
 
