@@ -70,7 +70,7 @@ I'm **Gabriel Tong**, a developer who goes by **OoVTo** — building things with
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║        🗺️  Lost & Found — Mapped in Real Time  🔍        ║
+║        🗺️  Lost & Found — Mapped in Real Time  🔍       ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -108,7 +108,7 @@ A fully functional Twitter-inspired social feed built with Laravel. Supports gue
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║       ⚡  Built with v0 · Deployed on Vercel  🚀         ║
+║       ⚡  Built with v0 · Deployed on Vercel  🚀        ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -162,7 +162,7 @@ Academic and internship deliverables — HTML-based ECA and Service-Oriented Arc
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║         Thanks for stopping by.  Feel free to explore. ✦            ║
+║         Thanks for stopping by.  Feel free to explore. ✦             ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
